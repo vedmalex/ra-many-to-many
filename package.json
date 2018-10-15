@@ -1,0 +1,22 @@
+{
+    "name": "react-admin-advanced-recipes-quick-create-preview",
+    "version": "1.0.0",
+    "description": null,
+    "keywords": ["react", "react-admin", "tutorial"],
+    "main": "src/index.js",
+    "dependencies": {
+        "query-string": "6.1.0",
+        "ra-data-fakerest": "2.0.2",
+        "react": "16.3.2",
+        "react-admin": "2.1.0",
+        "react-dom": "16.3.2",
+        "react-scripts": "1.1.4"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test --env=jsdom",
+        "eject": "react-scripts eject"
+    }
+}
